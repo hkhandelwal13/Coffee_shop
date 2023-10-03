@@ -1,0 +1,286 @@
+.delivery-confirmation-child,
+.delivery-confirmation-item {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: var(--color-black);
+  height: 47px;
+}
+.delivery-confirmation-item {
+  top: 51px;
+  background-color: var(--color-tan);
+  backdrop-filter: blur(4px);
+  height: 61px;
+}
+.delivery-confirmation-child1,
+.delivery-confirmation-inner {
+  position: absolute;
+  width: 100%;
+  top: 47px;
+  right: 0;
+  left: 0;
+  background-color: var(--color-black);
+  height: 65px;
+}
+.delivery-confirmation-child1 {
+  width: 14.42%;
+  top: 51px;
+  left: 85.58%;
+  height: 61px;
+}
+.cancel,
+.mrs-bean11 {
+  position: absolute;
+  display: inline-block;
+}
+.cancel {
+  top: 74px;
+  right: 11px;
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+  color: var(--color-white);
+  width: 41px;
+}
+.mrs-bean11 {
+  top: 62px;
+  left: 7px;
+  font-size: var(--font-size-5xl);
+  line-height: 82.5%;
+  font-family: var(--font-plaster);
+  color: var(--color-darkorange-200);
+  width: 79px;
+  height: 38px;
+  filter: blur(0);
+  cursor: pointer;
+}
+.delivery-confirmation-child2 {
+  position: absolute;
+  top: 139px;
+  left: 17px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-black);
+  width: 395px;
+  height: 60px;
+}
+.delivery-confirmation-child3,
+.delivery-confirmation-child4,
+.delivery-confirmation-child5,
+.delivery-confirmation-child6 {
+  position: absolute;
+  top: 213px;
+  left: 17px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-black);
+  width: 395px;
+  height: 66px;
+}
+.delivery-confirmation-child4,
+.delivery-confirmation-child5,
+.delivery-confirmation-child6 {
+  top: 344px;
+  height: 62px;
+}
+.delivery-confirmation-child5,
+.delivery-confirmation-child6 {
+  top: 420px;
+}
+.delivery-confirmation-child6 {
+  top: 496px;
+}
+.items1 {
+  position: absolute;
+  height: 2.3%;
+  top: 17.68%;
+  left: calc(50% - 178px);
+  display: inline-block;
+  width: 60px;
+}
+.cash-on-delivery,
+.pay-with-debitcredit,
+.upi-netbanking {
+  position: absolute;
+  height: 2.3%;
+  top: 41.91%;
+  left: calc(50% - 174px);
+  display: inline-block;
+  width: 141px;
+}
+.cash-on-delivery,
+.pay-with-debitcredit {
+  top: 50.63%;
+  width: 204px;
+}
+.cash-on-delivery {
+  top: 59.36%;
+  left: calc(50% - 173px);
+  width: 141px;
+}
+.aaryaman-limaye1 {
+  height: 4.02%;
+  top: 26.29%;
+  left: calc(50% - 86px);
+  width: 159px;
+}
+.aaryaman-limaye1,
+.div64,
+.div65,
+.select-payment-method {
+  position: absolute;
+  display: inline-block;
+}
+.select-payment-method {
+  height: 1.72%;
+  top: 36.17%;
+  left: calc(50% - 198px);
+  font-weight: 600;
+  width: 194px;
+}
+.div64,
+.div65 {
+  height: 2.3%;
+  top: 17.8%;
+  left: calc(50% - 84px);
+  width: 74px;
+}
+.div65 {
+  left: calc(50% + 29px);
+}
+.view-details1 {
+  height: 0.92%;
+  top: 19.98%;
+  left: calc(50% - 178px);
+  text-decoration: underline;
+  width: 94px;
+}
+.saved1,
+.total1,
+.view-details1,
+.view-sit-amet {
+  position: absolute;
+  font-size: var(--font-size-3xs);
+  display: inline-block;
+}
+.view-sit-amet {
+  height: 1.03%;
+  top: 28.93%;
+  left: calc(50% - 86px);
+  text-decoration: underline;
+  width: 154px;
+}
+.saved1,
+.total1 {
+  height: 0.92%;
+  top: 20.09%;
+  left: calc(50% - 84px);
+  width: 94px;
+}
+.saved1 {
+  left: calc(50% + 29px);
+}
+.deliver {
+  margin: 0;
+}
+.deliver-to {
+  position: absolute;
+  height: 3.9%;
+  top: 26.18%;
+  left: calc(50% - 178px);
+  display: inline-block;
+  width: 54px;
+}
+.icon-arrow-right-thick-icon {
+  position: absolute;
+  height: 3.61%;
+  width: 8.83%;
+  top: 58.67%;
+  right: 8.61%;
+  bottom: 37.72%;
+  left: 82.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.emoji-white-heavy-check-mark1,
+.emoji-white-heavy-check-mark2,
+.icon-arrow-right-thick-icon1,
+.icon-arrow-right-thick-icon2 {
+  position: absolute;
+  height: 3.61%;
+  width: 8.83%;
+  top: 41.22%;
+  right: 8.61%;
+  bottom: 55.17%;
+  left: 82.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.emoji-white-heavy-check-mark1,
+.emoji-white-heavy-check-mark2,
+.icon-arrow-right-thick-icon2 {
+  top: 50.06%;
+  bottom: 46.33%;
+}
+.emoji-white-heavy-check-mark1,
+.emoji-white-heavy-check-mark2 {
+  height: 4.36%;
+  width: 8.84%;
+  top: 16.76%;
+  right: 8.6%;
+  bottom: 78.87%;
+}
+.emoji-white-heavy-check-mark2 {
+  top: 25.83%;
+  bottom: 69.8%;
+}
+.entore-veritatis-et {
+  position: absolute;
+  top: 615px;
+  left: 11px;
+  font-size: var(--font-size-5xs);
+  color: var(--color-papayawhip-100);
+  display: inline-block;
+  width: 395px;
+}
+.delivery-confirmation {
+  position: relative;
+  background-color: #241e1e;
+  width: 100%;
+  height: 871px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-darkorange-100);
+  font-family: var(--font-inter);
+}
+.frame-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 28px;
+  background-color: var(--color-black);
+  width: 395px;
+  height: 99px;
+}
+.order-placed-it {
+  position: absolute;
+  height: 33.33%;
+  top: 35.35%;
+  left: calc(50% - 152.5px);
+  display: inline-block;
+  width: 306px;
+}
+.rectangle-parent {
+  position: relative;
+  backdrop-filter: blur(4px);
+  width: 395px;
+  height: 99px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-darkorange-100);
+  font-family: var(--font-inter);
+}

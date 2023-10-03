@@ -1,0 +1,386 @@
+.log-insign-up-child,
+.log-insign-up-item {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: var(--color-black);
+  height: 47px;
+}
+.log-insign-up-item {
+  top: 51px;
+  background-color: var(--color-tan);
+  backdrop-filter: blur(4px);
+  height: 61px;
+  cursor: pointer;
+}
+.log-insign-up-child1,
+.log-insign-up-inner {
+  position: absolute;
+  right: 0;
+  background-color: var(--color-black);
+}
+.log-insign-up-inner {
+  width: 100%;
+  top: 47px;
+  left: 0;
+  height: 65px;
+  cursor: pointer;
+}
+.log-insign-up-child1 {
+  width: 14.42%;
+  top: 51px;
+  left: 85.58%;
+  height: 61px;
+}
+.log-in10 {
+  top: 92px;
+  right: 12px;
+  width: 39px;
+}
+.already-have-an,
+.log-in10,
+.name {
+  position: absolute;
+  display: inline-block;
+}
+.already-have-an {
+  top: 618px;
+  right: 49px;
+  color: var(--color-white);
+  width: 233px;
+  cursor: pointer;
+}
+.name {
+  top: 342px;
+  right: 77px;
+  width: 297px;
+}
+.mrs12 {
+  margin: 0;
+}
+.mrs-bean13,
+.mrs-bean14 {
+  position: absolute;
+  line-height: 82.5%;
+  font-family: var(--font-plaster);
+  display: inline-block;
+  filter: blur(0);
+}
+.mrs-bean13 {
+  top: 62px;
+  left: 7px;
+  font-size: var(--font-size-5xl);
+  width: 79px;
+  height: 38px;
+  cursor: pointer;
+}
+.mrs-bean14 {
+  top: 210px;
+  left: 156px;
+  font-size: var(--font-size-17xl);
+  width: 117px;
+  height: 59px;
+}
+.your-name {
+  border: 0;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-base);
+  background-color: transparent;
+  position: absolute;
+  top: 357px;
+  left: 56px;
+  color: var(--color-dimgray-100);
+  text-align: left;
+}
+.log-insign-up-child2 {
+  position: absolute;
+  top: 380px;
+  left: 55px;
+  border-top: 2px dashed var(--color-white);
+  box-sizing: border-box;
+  width: 327px;
+  height: 2px;
+}
+.email1 {
+  position: absolute;
+  top: 399px;
+  right: 77px;
+  display: inline-block;
+  width: 297px;
+}
+.abcexampleemailcom1 {
+  border: 0;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-base);
+  background-color: transparent;
+  position: absolute;
+  top: 414px;
+  left: 56px;
+  color: var(--color-dimgray-100);
+  text-align: left;
+}
+.log-insign-up-child3 {
+  position: absolute;
+  top: 437px;
+  left: 55px;
+  border-top: 2px dashed var(--color-white);
+  box-sizing: border-box;
+  width: 327px;
+  height: 2px;
+}
+.mobile-number1 {
+  position: absolute;
+  top: 462px;
+  right: 77px;
+  display: inline-block;
+  width: 297px;
+}
+.input {
+  border: 0;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-base);
+  background-color: transparent;
+  position: absolute;
+  top: 477px;
+  left: 56px;
+  color: var(--color-dimgray-100);
+  text-align: left;
+}
+.log-insign-up-child4 {
+  position: absolute;
+  top: 500px;
+  left: 55px;
+  border-top: 2px dashed var(--color-white);
+  box-sizing: border-box;
+  width: 327px;
+  height: 2px;
+}
+.password1 {
+  position: absolute;
+  top: 524px;
+  right: 77px;
+  display: inline-block;
+  width: 297px;
+}
+.input1 {
+  border: 0;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-base);
+  background-color: transparent;
+  position: absolute;
+  top: 539px;
+  left: 56px;
+  color: var(--color-dimgray-100);
+  text-align: left;
+}
+.log-insign-up-child5 {
+  position: absolute;
+  top: 562px;
+  left: 55px;
+  border-top: 2px dashed var(--color-white);
+  box-sizing: border-box;
+  width: 327px;
+  height: 2px;
+}
+.log-insign-up-child6,
+.sign-up {
+  cursor: pointer;
+  position: absolute;
+}
+.log-insign-up-child6 {
+  height: 2.67%;
+  top: 58.19%;
+  bottom: 39.14%;
+  left: calc(50% - 159px);
+  border-radius: var(--br-7xs);
+  background-color: var(--color-papayawhip-100);
+  width: 83px;
+}
+.sign-up {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 1.71%;
+  top: 58.67%;
+  left: calc(50% - 146px);
+  font-size: var(--font-size-mini);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-darkorange-100);
+  text-align: left;
+  display: inline-block;
+  width: 57px;
+}
+.icon-user7 {
+  position: absolute;
+  height: 2.93%;
+  width: 7.67%;
+  top: 5.33%;
+  right: 4.19%;
+  bottom: 91.74%;
+  left: 88.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.mrs-bean15 {
+  position: absolute;
+  top: 134px;
+  left: 284px;
+  font-size: var(--font-size-9xl);
+  line-height: 82.5%;
+  font-family: var(--font-plaster);
+  color: var(--color-darkorange-200);
+  display: inline-block;
+  width: 91px;
+  height: 48px;
+  filter: blur(0);
+}
+.privacy-policy-copyright2 {
+  position: absolute;
+  top: 201px;
+  left: 217px;
+  font-size: var(--font-size-3xs);
+}
+.coffee-work-repeat2 {
+  position: absolute;
+  height: 8.92%;
+  width: 37.6%;
+  top: 85.45%;
+  left: 62.4%;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-prata);
+  color: var(--color-papayawhip-100);
+  display: inline-block;
+}
+.categories2 {
+  margin: 0;
+  font-size: var(--font-size-base);
+}
+.categories-coffee-beans-container2 {
+  top: 0;
+  left: 0;
+  width: 103px;
+  height: 63px;
+}
+.categories-coffee-beans-container2,
+.map-cart-order-container2,
+.shop2 {
+  position: absolute;
+  display: inline-block;
+}
+.map-cart-order-container2 {
+  top: 62px;
+  left: 0;
+  width: 64px;
+  height: 45px;
+}
+.shop2 {
+  top: 0;
+  left: 137px;
+  font-size: var(--font-size-base);
+  width: 47px;
+}
+.coffee-beans-best-container2,
+.recipes2 {
+  position: absolute;
+  top: 32px;
+  left: 138px;
+  display: inline-block;
+  width: 93px;
+}
+.recipes2 {
+  top: 0;
+  left: 263px;
+  font-size: var(--font-size-base);
+  width: 89px;
+}
+.caffe-latte2,
+.cappuccino-hot-chocolate-container2 {
+  position: absolute;
+  top: 29px;
+  left: 269px;
+  display: inline-block;
+  width: 99px;
+}
+.caffe-latte2 {
+  top: 59px;
+  width: 77px;
+}
+.blank-line5 {
+  margin: 0;
+  font-size: var(--font-size-xs);
+}
+.connect-with-us-container2 {
+  position: absolute;
+  top: 166px;
+  left: 0;
+  display: inline-block;
+  width: 128px;
+  height: 16px;
+  font-size: var(--font-size-base);
+}
+.vector-icon20,
+.vector-icon21,
+.vector-icon22 {
+  position: absolute;
+  height: 8.4%;
+  width: 4.8%;
+  top: 88.73%;
+  right: 95.2%;
+  bottom: 2.87%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon21,
+.vector-icon22 {
+  height: 7.98%;
+  width: 4.53%;
+  top: 89.2%;
+  right: 88.53%;
+  bottom: 2.82%;
+  left: 6.93%;
+}
+.vector-icon22 {
+  height: 8.45%;
+  width: 4.8%;
+  top: 88.73%;
+  right: 82.13%;
+  left: 13.07%;
+}
+.mrs-bean-container {
+  position: absolute;
+  top: 29px;
+  left: 29px;
+  width: 375px;
+  height: 213px;
+}
+.log-insign-up,
+.log-insign-up-inner1 {
+  background-color: var(--color-gray-200);
+}
+.log-insign-up-inner1 {
+  position: absolute;
+  top: 773px;
+  left: 0;
+  width: 431px;
+  height: 271px;
+  color: var(--color-white);
+}
+.log-insign-up {
+  position: relative;
+  width: 100%;
+  height: 1050px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkorange-200);
+  font-family: var(--font-inter);
+}

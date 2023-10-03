@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./LogIn.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Plaster:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Prata:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="log-in" id="logInContainer">
+      <div class="log-in-child"></div>
+      <div class="log-in-item" id="rectangle1"></div>
+      <div class="log-in-inner" id="rectangle2"></div>
+      <div class="dont-have-an" id="dontHaveAn">
+        Don’t have an account? Sign In instead.
+      </div>
+      <div class="mrs-bean" id="mrsBeanText">
+        <p class="mrs">Mrs.</p>
+        <p class="mrs">Bean</p>
+      </div>
+      <div class="mrs-bean1">
+        <p class="mrs">Mrs.</p>
+        <p class="mrs">Bean</p>
+      </div>
+      <b class="mobile-number">Mobile Number*</b>
+      <div class="div">+91 9999999999</div>
+      <div class="line-div"></div>
+      <b class="password">Password*</b>
+      <div class="div1">***********</div>
+      <div class="log-in-child1"></div>
+      <div class="rectangle-div" id="rectangle3"></div>
+      <button class="log-in1" id="logIn">
+        <p class="mrs">Log in</p>
+      </button>
+      <img class="vector-icon" alt="" src="./public/vector.svg" />
+
+      <div class="frame-div">
+        <div class="mrs-bean-parent">
+          <div class="mrs-bean2">
+            <p class="mrs">Mrs.</p>
+            <p class="mrs">Bean</p>
+          </div>
+          <div class="privacy-policy-copyright">
+            Privacy Policy Copyright @ 2022.
+          </div>
+          <div class="coffee-work-repeat">Coffee. Work. Repeat</div>
+          <div class="categories-coffee-beans-container">
+            <p class="categories">Categories</p>
+            <p class="mrs">&nbsp;</p>
+            <p class="mrs">Coffee beans</p>
+            <p class="mrs">Coffee Powder</p>
+          </div>
+          <div class="map-cart-order-container">
+            <p class="mrs">Map</p>
+            <p class="mrs">Cart</p>
+            <p class="mrs">Order</p>
+          </div>
+          <div class="shop">Shop</div>
+          <div class="coffee-beans-best-container">
+            <p class="mrs">Coffee Beans</p>
+            <p class="mrs">Best Deals</p>
+            <p class="mrs">Merch</p>
+            <p class="mrs">Festive</p>
+            <p class="mrs">Combos</p>
+          </div>
+          <div class="recipes">Recipes</div>
+          <div class="cappuccino-hot-chocolate-container">
+            <p class="mrs">Cappuccino</p>
+            <p class="mrs">Hot Chocolate</p>
+          </div>
+          <div class="caffe-latte">Caffe Latte</div>
+          <div class="connect-with-us-container">
+            <p class="mrs">Connect with us</p>
+            <p class="blank-line1">&nbsp;</p>
+          </div>
+          <img class="vector-icon1" alt="" src="./public/vector1.svg" />
+
+          <img class="vector-icon2" alt="" src="./public/vector2.svg" />
+
+          <img class="vector-icon3" alt="" src="./public/vector3.svg" />
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var rectangle1 = document.getElementById("rectangle1");
+      if (rectangle1) {
+        rectangle1.addEventListener("click", function (e) {
+          window.location.href = "./LandingPage.html";
+        });
+      }
+      
+      var rectangle2 = document.getElementById("rectangle2");
+      if (rectangle2) {
+        rectangle2.addEventListener("click", function (e) {
+          window.location.href = "./LandingPage.html";
+        });
+      }
+      
+      var dontHaveAn = document.getElementById("dontHaveAn");
+      if (dontHaveAn) {
+        dontHaveAn.addEventListener("click", function (e) {
+          window.location.href = "./LogInSignUp.html";
+        });
+      }
+      
+      var mrsBeanText = document.getElementById("mrsBeanText");
+      if (mrsBeanText) {
+        mrsBeanText.addEventListener("click", function (e) {
+          window.location.href = "./LandingPage.html";
+        });
+      }
+      
+      var rectangle3 = document.getElementById("rectangle3");
+      if (rectangle3) {
+        rectangle3.addEventListener("click", function (e) {
+          window.location.href = "./ProductCatalogue.html";
+        });
+      }
+      
+      var logIn = document.getElementById("logIn");
+      if (logIn) {
+        logIn.addEventListener("click", function (e) {
+          window.location.href = "./LandingPage.html";
+        });
+      }
+      
+      var logInContainer = document.getElementById("logInContainer");
+      if (logInContainer) {
+        logInContainer.addEventListener("click", function (e) {
+          window.location.href = "./LogInSignUp.html";
+        });
+      }
+      </script>
+  </body>
+</html>

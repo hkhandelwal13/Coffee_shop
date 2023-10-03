@@ -1,0 +1,412 @@
+.order-id-child,
+.order-id-item {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: var(--color-black);
+  height: 47px;
+}
+.order-id-item {
+  top: 51px;
+  background-color: var(--color-tan);
+  backdrop-filter: blur(4px);
+  height: 61px;
+}
+.order-id-child1,
+.order-id-inner {
+  position: absolute;
+  width: 100%;
+  top: 47px;
+  right: 0;
+  left: 0;
+  background-color: var(--color-black);
+  height: 65px;
+}
+.order-id-child1 {
+  width: 14.42%;
+  top: 51px;
+  left: 85.58%;
+  height: 61px;
+  cursor: pointer;
+}
+.log-in6 {
+  position: absolute;
+  top: 92px;
+  right: 12px;
+  display: inline-block;
+  width: 39px;
+}
+.mrs6 {
+  margin: 0;
+}
+.mrs-bean6,
+.order-id1 {
+  position: absolute;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+}
+.mrs-bean6 {
+  top: 62px;
+  left: 7px;
+  line-height: 82.5%;
+  font-family: var(--font-plaster);
+  color: var(--color-darkorange-200);
+  width: 79px;
+  height: 38px;
+  filter: blur(0);
+  cursor: pointer;
+}
+.order-id1 {
+  width: 23.95%;
+  top: 228px;
+  left: 38.6%;
+  font-weight: 600;
+  color: var(--color-darkorange-100);
+}
+.order-id-child2 {
+  position: absolute;
+  top: 263px;
+  left: 123px;
+  background-color: var(--color-white);
+  width: 190px;
+  height: 34px;
+}
+.div40 {
+  top: 350px;
+  left: 64px;
+  width: 44px;
+}
+.div40,
+.div41,
+.div42,
+.div43 {
+  position: absolute;
+  font-size: var(--font-size-93xl);
+  font-family: var(--font-lato);
+  color: var(--color-dimgray-200);
+  display: inline-block;
+  height: 113px;
+}
+.div41 {
+  top: 751px;
+  left: 61px;
+  text-align: right;
+  width: 60px;
+}
+.div42,
+.div43 {
+  top: 592px;
+  left: 201px;
+  width: 57px;
+}
+.div43 {
+  top: 934px;
+  left: 190px;
+  text-align: right;
+}
+.packed,
+.queued,
+.reached,
+.shipped {
+  position: absolute;
+  top: 449px;
+  left: 54px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 64px;
+}
+.packed,
+.reached,
+.shipped {
+  top: 691px;
+  left: 198px;
+}
+.reached,
+.shipped {
+  top: 1033px;
+  left: 184px;
+  width: 74px;
+}
+.shipped {
+  top: 850px;
+  left: 54px;
+  width: 67px;
+}
+.lorem-ipsum-dolor,
+.lorem-ipsum-dolor1,
+.lorem-ipsum-dolor2,
+.lorem-ipsum-dolor3 {
+  position: absolute;
+  top: 475px;
+  left: 55px;
+  color: var(--color-papayawhip-100);
+  display: inline-block;
+  width: 121px;
+}
+.lorem-ipsum-dolor1,
+.lorem-ipsum-dolor2,
+.lorem-ipsum-dolor3 {
+  top: 619px;
+  left: 275px;
+}
+.lorem-ipsum-dolor2,
+.lorem-ipsum-dolor3 {
+  top: 957px;
+}
+.lorem-ipsum-dolor3 {
+  top: 777px;
+  left: 138px;
+}
+.order-id-child3 {
+  position: absolute;
+  top: 468.63px;
+  left: 94.42px;
+  width: 240.2px;
+  height: 575.81px;
+}
+.close-icon,
+.cycling-mountain-bike {
+  position: absolute;
+  top: 447.45px;
+  left: 210px;
+  width: 27.43px;
+  height: 26.93px;
+  object-fit: cover;
+}
+.close-icon {
+  top: 1006px;
+  left: 72px;
+  width: 65.68px;
+  height: 65.68px;
+}
+.icon-user3 {
+  position: absolute;
+  height: 2.31%;
+  width: 7.67%;
+  top: 4.2%;
+  right: 4.19%;
+  bottom: 93.49%;
+  left: 88.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.navigation-bar-child1 {
+  position: absolute;
+  height: 103.7%;
+  width: 100%;
+  top: -3.7%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-black);
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+}
+.about-us3,
+.cart6,
+.catagories3,
+.map4,
+.order4 {
+  position: absolute;
+  width: 6.74%;
+  top: 25.93%;
+  left: 29.3%;
+  font-weight: 600;
+  display: inline-block;
+  cursor: pointer;
+}
+.about-us3,
+.cart6,
+.catagories3,
+.order4 {
+  width: 6.51%;
+  left: 47.21%;
+}
+.about-us3,
+.catagories3,
+.order4 {
+  width: 7.91%;
+  left: 64.42%;
+}
+.about-us3,
+.catagories3 {
+  width: 13.95%;
+  left: 83.02%;
+}
+.catagories3 {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 15.81%;
+  left: 3.02%;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+}
+.navigation-bar3 {
+  position: absolute;
+  top: 112px;
+  left: 0;
+  background: linear-gradient(#000, #000), linear-gradient(#000, #000), #000;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 430px;
+  height: 27px;
+}
+.mrs-bean7 {
+  position: absolute;
+  top: 134px;
+  left: 284.13px;
+  font-size: var(--font-size-9xl);
+  line-height: 82.5%;
+  font-family: var(--font-plaster);
+  color: var(--color-darkorange-200);
+  display: inline-block;
+  width: 91px;
+  height: 48px;
+  filter: blur(0);
+}
+.privacy-policy-copyright1 {
+  position: absolute;
+  top: 201px;
+  left: 217.13px;
+  font-size: var(--font-size-3xs);
+}
+.coffee-work-repeat1 {
+  position: absolute;
+  width: 37.41%;
+  top: 82.73%;
+  left: 62.09%;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-prata);
+  color: var(--color-papayawhip-100);
+  display: inline-block;
+}
+.categories1 {
+  margin: 0;
+  font-size: var(--font-size-base);
+}
+.categories-coffee-beans-container1 {
+  top: 0;
+  left: 0.13px;
+  width: 103px;
+  height: 63px;
+}
+.categories-coffee-beans-container1,
+.map-cart-order-container1,
+.shop1 {
+  position: absolute;
+  display: inline-block;
+}
+.map-cart-order-container1 {
+  top: 62px;
+  left: 0.13px;
+  width: 64px;
+  height: 45px;
+}
+.shop1 {
+  top: 0;
+  left: 137.13px;
+  font-size: var(--font-size-base);
+  width: 47px;
+}
+.coffee-beans-best-container1,
+.recipes1 {
+  position: absolute;
+  top: 32px;
+  left: 138.13px;
+  display: inline-block;
+  width: 93px;
+}
+.recipes1 {
+  top: 0;
+  left: 263.13px;
+  font-size: var(--font-size-base);
+  width: 89px;
+}
+.caffe-latte1,
+.cappuccino-hot-chocolate-container1 {
+  position: absolute;
+  top: 29px;
+  left: 269.13px;
+  display: inline-block;
+  width: 99px;
+}
+.caffe-latte1 {
+  top: 59px;
+  width: 77px;
+}
+.blank-line3 {
+  margin: 0;
+  font-size: var(--font-size-xs);
+}
+.connect-with-us-container1 {
+  position: absolute;
+  top: 166px;
+  left: 0.13px;
+  display: inline-block;
+  width: 128px;
+  height: 16px;
+  font-size: var(--font-size-base);
+}
+.vector-icon12,
+.vector-icon13,
+.vector-icon14 {
+  position: absolute;
+  height: 8.13%;
+  width: 4.78%;
+  top: 85.91%;
+  right: 95.22%;
+  bottom: 5.96%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon13,
+.vector-icon14 {
+  height: 7.73%;
+  width: 4.51%;
+  top: 86.36%;
+  right: 88.59%;
+  bottom: 5.91%;
+  left: 6.9%;
+}
+.vector-icon14 {
+  height: 8.18%;
+  width: 4.78%;
+  top: 85.91%;
+  right: 82.22%;
+  left: 13%;
+}
+.mrs-bean-group {
+  position: absolute;
+  top: 29px;
+  left: 28.87px;
+  width: 375.13px;
+  height: 220px;
+}
+.order-id,
+.order-id-inner1 {
+  background-color: var(--color-gray-200);
+}
+.order-id-inner1 {
+  position: absolute;
+  top: 1061px;
+  left: 0;
+  width: 430px;
+  height: 271px;
+}
+.order-id {
+  position: relative;
+  width: 100%;
+  height: 1332px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
